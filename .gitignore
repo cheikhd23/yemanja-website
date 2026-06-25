@@ -1,0 +1,17 @@
+.DS_Store
+
+# Local extraction/rendering scratch
+tmp/
+
+# Dependencies and build output
+node_modules/
+web/node_modules/
+web/.next/
+web/out/
+web/build/
+web/.vercel/
+
+# Environment and logs
+.env*
+*.log
+*.tsbuildinfo
